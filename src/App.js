@@ -23,7 +23,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <List>Cards List</List>
+        <List>FIFE LIFE</List>
         {this.state.cards.map(card => (
           <Card
             // removeCard={this.removeCard}
