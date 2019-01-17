@@ -1,86 +1,67 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Spongebob-squarepants.svg/666px-Spongebob-squarepants.svg.png",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "name": "Barney",
+    "image": "https://junkonyourtrunk.com/media/catalog/product/cache/1/image/700x/040ec09b1e35df139433887a97daa66f/t/h/thug_life_barney_fife_0001nl.jpg"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "name": "Barney",
+    "image": "https://i1.wp.com/quotes2read.com/wp-content/uploads/2017/07/barney-five-quotes.jpg?w=948&ssl=1"
   },
   {
     "id": 3,
-    "name": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "name": "Barney",
+    "image": "https://i.pinimg.com/originals/77/bf/d7/77bfd7df6d72a5b68cec7ca8dd438737.jpg"
+
   },
   {
     "id": 4,
-    "name": "Dexter",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "name": "Barney",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Don_Knotts_Barney_and_the_bullet_Andy_Griffith_Show.jpg"
+
   },
   {
     "id": 5,
-    "name": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "name": "Barney",
+    "image": "http://3.bp.blogspot.com/-WsK0hIIMDvs/VLBXerWmPaI/AAAAAAAAu9s/GPd-s3bYVvk/s1600/spock_vs_fife.jpg"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "name": "Barney",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51CRWE9212L._SX344_BO1,204,203,200_.jpg"
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "name": "Barney",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHvV7le1p9eqfbdJ2jQPojB_q421eS7zDa_GrD9qLxc-ZUCzcX"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "name": "Barney",
+    "image": "https://i.pinimg.com/originals/d2/df/47/d2df47ab9e966378fba95f98b89800af.jpg"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-    "occupation": "Adventurer",
-    "location": "California"
+    "name": "Barney",
+    "image": "https://i.imgflip.com/2/ovzit.jpg"
+
   },
   {
     "id": 10,
-    "name": "Rocko",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "name": "Barney",
+    "image": "https://i.pinimg.com/236x/c3/17/38/c317381916579f76b2c4ece41d443991--barney-fife-caricature-art.jpg"
+
   },
   {
     "id": 11,
-    "name": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "name": "Barney",
+    "image": "https://imgix.ranker.com/user_node_img/28/543263/original/barney-fife-film-characters-photo-u5?w=280&h=280&fit=crop&crop=faces&q=50&fmt=jpg"
+
   },
   {
     "id": 12,
-    "name": "Ickis",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "name": "Barney",
+    "image": "https://pbs.twimg.com/profile_images/210859462/DEPUTY_FIFE_400x400.jpg"
   }
 ]
