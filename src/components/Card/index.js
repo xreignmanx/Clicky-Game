@@ -8,13 +8,9 @@ function Card(props) {
         <img alt={props.name} src={props.image} />
       </div>
       <div className="content">
-        <ul>
-          <li>
-            <strong>Name:</strong> {props.name}
-          </li>
-        </ul>
+            <p><strong>Name:</strong> {props.name}</p>
       </div>
-      <span onClick={() => props.shuffleCard(props.id)} className="remove">
+      <span onClick={() => props.shuffleCard(props.id)} className="shuffle">
         𝘅
       </span>
     </div>

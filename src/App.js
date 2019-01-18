@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import Card from "./components/Card";
 import Wrapper from "./components/Wrapper";
-import List from "./components/List";
+import Header from "./components/Header";
+// import Counter from "./components/Counter";
 import cards from "./cards.json";
 
 class App extends Component {
@@ -23,18 +24,20 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <List>FIFE LIFE</List>
+        <Header>FIFE LIFE
+          {/* <Counter /> */}
+        </Header>
+        {/* <List> */}
         {this.state.cards.map(card => (
           <Card
-            // removeCard={this.removeCard}
             id={card.id}
             key={card.id}
             name={card.name}
             image={card.image}
-            // occupation={card.occupation}
-            // location={card.location}
+
           />
-        ))}
+        ))} 
+        {/* </List> */}
       </Wrapper>
     );
   }
