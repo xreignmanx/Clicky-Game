@@ -6,3 +6,8 @@
     color: gold;
     text-align: center;
 }
+p {
+    text-align: left;
+    font-size: 48px;
+    font-family: Cambria;
+}

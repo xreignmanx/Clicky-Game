@@ -14,7 +14,7 @@ class App extends Component {
 // Card is clicked.
 
 
-const newArray = [];
+// const newArray = [];
 
 // Construct method to generate the card object into the new Array
 // to be able to manipulate the card "clicked" state to true and holds the value
