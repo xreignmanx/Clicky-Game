@@ -10,24 +10,31 @@ class App extends Component {
   state = {
     cards
   };
+// Use a for loop and bubble sort method to create shuffleCard() to execute when 
+// Card is clicked.
 
 
-// shuffleCard = array.map((a) => [Math.random(),a]).sort((a,b) => a[0]-b[0]).map((a) => a[1]);
-//   = id => {
-//     // Filter this.state.cards for cards with an id not equal to the id being removed
-//     const cards = this.state.cards.filter(card => card.id !== id);
-//     // Set this.state.cards equal to the new cards array
-//     this.setState({ cards });
-//   };
+const newArray = [];
 
-  // Map over this.state.cards and render a Card component for each card object
+// Construct method to generate the card object into the new Array
+// to be able to manipulate the card "clicked" state to true and holds the value
+//  until the game resets.
+  
+// Create a function to increment counter when an previously unselected card is 
+// selected
+
+// Create a function that resets the game when a previously selected Card is 
+// selected again.
+
   render() {
     return (
       <Wrapper>
         <Header>FIFE LIFE
           {/* <Counter /> */}
         </Header>
-        {/* <List> */}
+
+    {/* Create a way to bring the entire Card in instead of the individaul
+    properties */}
         {this.state.cards.map(card => (
           <Card
             id={card.id}
@@ -37,7 +44,6 @@ class App extends Component {
 
           />
         ))} 
-        {/* </List> */}
       </Wrapper>
     );
   }
